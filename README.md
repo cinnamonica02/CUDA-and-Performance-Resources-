@@ -136,9 +136,21 @@ Instructions on how to use this repository.
 
 ### Prerequisites
 
+
+### Ideal Set-up : Running locally
+
 *   NVIDIA GPU with CUDA support
 *   CUDA Toolkit installed
 *   (Optional) Docker for CUTLASS development
+
+
+### No GPU ? Dont let that discourage you! 
+
+* You can run cuda kernels on google colab
+* There are also more affordable GPU cloud instances like runpod.io, lambda labs , vast.ai etc
+* Currently the discord channel of Umar Jamil is running a 100 days of cuda ,
+- you may be able to get sponsors if you cook everyday there, 
+- everything is possible when you build consistently in public!
 
 ### Installation/Setup
 

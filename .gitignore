@@ -1,0 +1,13 @@
+# Common Python ignores
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Common system files
+.DS_Store
+Thumbs.db
